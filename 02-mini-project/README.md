@@ -7,7 +7,6 @@
 This project was made by Jacee and Isaac.
 We wanted to conceptualize flappy bird as a fish, as it gave us opportunity to play with the physics and artwork while still retaining the core mechanic of the game.
 
-
 The original flappy bird had the pipe image reversed, but we wanted to explore in more depth on how image worked, so we chose stalagmites for the ceiling and corals at the bottom. All of the assets were made by Jacee.
 
 We added in a start and home screen and an equivilant of a award/ point ranking system, instead of a medal, the player gets a fish pun as encouragement depending on the points scored. 
@@ -27,37 +26,20 @@ We added in a start and home screen and an equivilant of a award/ point ranking 
 
 ### ✍️ Reflection
 
-Working on a game was a very novel experience for me. I always wanted to make a game, but I never coded or programmed before, so it was a bit intimidating.
+Working on a game was a very novel experience for me. I always wanted to make a game, but I've never coded or programmed before, so it was both a bit intimidating and equally exciting.
 
-The first hurdle we faced was actually understanding how the base code operated.
-How one person might intuitively write code might not read the same easily to another.
-Found that trying to write it down and draw out how the code works, especially for pipes was particularly helpful.
+I Found that trying to draw out how the base code worked was helpful in understanding the pipes. Once we understood the base code we conceptualized the game as a fish swimming instead of a bird.
 
-We conceptualized the game as a fish swimming instead of a bird flying, partly as we wanted to experiment with the physics and make the control more floaty, though we decided against it as it felt not pleasing to play.
+I wanted to mimic the character rotation in Flappy Bird. It took some time to realize that rotation was conceptually similar to how the gravity function worked, just applied to a rotation value instead.
 
-We wanted to mimic the slight rotation that Flappy Bird had with the character. We had to introduce a rotateFish and added in increasing positive values to the apply force and negative to the flap functions within the Bird class (which is visually a fish).
+I'm proud of the gameplay experience. When I was adjusting the fish image around the circle hitbox, I recalled game hitboxes are smaller than the character model, to give players that sense of a close call, so I kept the image slightly larger than the actual circle. I also added in unique sound effects for every unique interaction to make the player's input feel meaningful, and a 'death flash' like old arcade games, using an independent frame counter. I presumed frameCount could be reset, but I was wrong. I Also added the fish puns to replace achievements :)
 
-One thing we wanted was to have nice buttons, purely for aesthetic purposes, discovering the wonders of .style(). One thing we could not overcome however was getting the font to work for the buttons.
+Another challenge was mapping an image to the upper pipe because typical imageMode() draws from a top left origin. This led to discovering imageMode(CORNERS), Conceptualising X1 as (X2 - units) preserved the image's proportions regardless of its position.
 
-I wanted a bit of a ‘impact’ when the player loses. Referencing old arcade games that flashes when you loose, I thought I could simply minus the frameCount function, but found that it did not work. So instead, I created an independent frame counter that reference the frameCount when the player looses, and resets itself every time to then trigger a flashing condition for a set time period.
+I also wanted to have nice buttons, which led me to discovering .style(). Though I couldn't overcome getting the font to work for the buttons. Given more time, I would like to try to get the font to work, as well as auto map the button select to the spacebar.
 
-The biggest challenge was understanding the scrolling background; something about the translation from concept to code was like a wall. Perhaps that scroll speed was simply subtracting the X position every frame count was a bit tricky to understand.
+It was really encouraging to see the final work come together into something fun and playable. I find coding increasingly more enjoyable and satisfying.
 
-Another challenge was mapping an image draw from bottom up rather than top down.
-This led to discovering imageMode(CORNERS) changes the draw points to 1X 1Y, 2X 2Y. Conceptualising 1X as -units from 2X made it click.
-
-Regarding creating the visuals, we chose to do pixel art and since it was our first time, there were challenges such as having to place each pixel well to convey shapes and lighting clearly. One technique that helped us convey the underwater visual better was ‘dithering ’, which created the illusion of midtones.
-
-One issue we had towards the end was a strange black flickering in the background that turned up after one of us made several changes to the code, and we had to compare the new and old version to see what went wrong.
-
-It was encouraging to see the final work come together into something fun and playable.
-
-<!-- 200–300 words on your process. Write freely — this isn't an essay.
-     Some prompts to get you started:
-     — What did you set out to make, and how did the result compare?
-     — What inputs does your sketch respond to, and how did you approach that?
-     — What was your biggest challenge, and how did you work through it?
-     — What would you push further if you had more time? -->
 
 ---
 
