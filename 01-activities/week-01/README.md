@@ -1,5 +1,4 @@
-# Week ## — Topic Name
-
+# Week 01 — Drawing with Code
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
 <!-- e.g. Week 03 — Arrays & Functions -->
@@ -10,8 +9,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | < A fox creature            > |
+| `1b`     | < A box in a field of colors> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,6 +18,8 @@
 
 ### This Week
 
+I have never done coding properly before, its all quite new. I think I got the hang of how images are drawn with simple shapes, although I think it will take some time to get used to.
+For assigment 2 I chose to build on Ryoji Ikeda. I made a box and have it track the cursor. The drawing of the lower rectangle threw me off a bit, I think I kept mixing up the X and Y values. The format of colours I am not familar with either.
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
@@ -26,8 +27,15 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
-
+![screenshot](activity1a/activity1a-image01.png)
+![screenshot](activity1a/activity1a-image02.png)
+![screenshot](activity1b/activity1b-image01.jpg)
+![screenshot](activity1b/activity1b-image02.png)
+![screenshot](activity1b/activity1b-image03.png)
+![screenshot](activity1b/activity1b-image03.png)
+![screenshot](activity1b/activity1b-image04.jpg)
+![screenshot](activity1b/activity1b-Video01.mov)
+![screenshot](activity1b/activity1b-Video02.mov)
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
