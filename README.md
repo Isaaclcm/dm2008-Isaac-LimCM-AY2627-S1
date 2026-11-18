@@ -27,8 +27,8 @@ This is my personal mono-repo for DM2008. It contains all my work across the sem
 
 ## 🖼️ Project Highlights
 
-<!-- Optional: Showcase your favourite output from the semester here -->
-<!-- Add a screenshot or a short description of your best work -->
+02-mini-project was the most fun as a final product
+04-final-project I am most proud of, building it from scratch.
 
 ---
 

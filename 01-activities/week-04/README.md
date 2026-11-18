@@ -1,4 +1,4 @@
-# Week 03 — Organizing code
+# Week 04 — Object Oriented Programming
 
 ---
 
@@ -6,8 +6,8 @@
 
 | Activity | What I Made                   |
 | -------- | --------------------- |
-| `3a`     | < Flickering Colors > |
-| `3b`     | <   Desert Cactus   > |
+| `4a`     |   < Cookie Clicker >  |
+| `4b`     |   < Bubble Blower  >  |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -15,12 +15,14 @@
 
 ### This Week
 
-The array can be very useful I think. I like that you can randomize it.
-I think I dont yet fully grasp function, i guess when constructing a complex indepdendent object.
+The classes appear to be very useful. I think I can grasp it conceptually, especially through activity 4a, but it was quite guided, writing it from scratch might be fairly difficult.
+
+The object array function is super useful too, I can imagine it used for lots of different particles and object. Combined with the classes, you can create many templates what tons of varients.
+The lifespan function is very nice too, I can definely see its application in video games when you have effects and particles. I know that conceptually those objects 'despawn' but its good to understand how it actually work.
 
 The rotation I think will be very handy, but its quite awkward trying to think how computers think. I can also see how useful push and pop can be, but I will have to experiment with it to understand it properly.
 
-For activity 3b, I made a field of cactus, which I am quite proud of. I figured out the distance via x and Y changes between squares when rotation is a applied
+For activity 4b, I made a group of bubbles that bounces off the sides of the screen. When you press the button you create a stream of smaller bubbles. I made it so that the direction of the bubbles move from left to right, as if there was a wind blowing from the right side of the screen.
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
@@ -28,10 +30,9 @@ For activity 3b, I made a field of cactus, which I am quite proud of. I figured 
 
 ### Output
 
-![video](activity3a/activity3a-video01.mov)
-![screenshot](activity3b/activity3b-image01.png)
-![screenshot](activity3b/activity3b-image02.png)
-![screenshot](activity3b/activity3b-image03.png)
+
+![video](readme-assets/activity4a-video01.mov)
+![video](readme-assets/activity4b-video01.mov)
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

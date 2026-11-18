@@ -15,12 +15,19 @@ We added in a start and home screen and an equivilant of a award/ point ranking 
 
 ### Output
 
-![Button-and-menu](Video-01.gif)
-![High-score](Video-02.gif)
-![Main-menu](Video-03.gif)
-![Low-score](Video-04.gif)
+![Button-and-menu](readme-assets/Video-01.gif)
+![High-score](readme-assets/Video-02.gif)
+![Main-menu](readme-assets/Video-03.gif)
+![Low-score](readme-assets/Video-04.gif)
 
 [Watch Online](https://youtube.com/shorts/IpTbBJ9JNMU?si=caIDEdD_bkaLbMB8)
+
+### WorkInProgress
+![Concept Art](documentation/ConceptArt.jpg)
+![Collision Testing](documentation/PrototypeVideo-01.mov)
+![Collision Functionality](documentation/PrototypeVideo-02.mov)
+![Functional Prototype](documentation/PrototypeVideo-03.mov)
+![Asset Application](documentation/PrototypeVideo-04.mov)
 
 ---
 

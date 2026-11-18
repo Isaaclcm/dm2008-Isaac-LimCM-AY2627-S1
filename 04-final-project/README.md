@@ -1,14 +1,13 @@
-# Final Project — Title
-
-<!-- Replace "Title" with the name of your project -->
+# Final Project — Planet Maker
 
 ---
 
 ### The Project
 
-<!-- What is your project and what does it do?
-     What experience does it create, and who or what does it respond to?
-     A short paragraph is ideal — make it something you'd be happy for anyone to read. -->
+Planet Maker is an interactive game where you create your very own planet and custom music alongside it.
+
+    As you build your planet, and adjust its properties to your liking through  the sliders, you also control the music that will slowly arise out of your creation. Size, adicity, weather, all these features evoke their own instrumentation pitch and rythmn. Inspired by the nostalgia of my singing monster and builder games, Planet Maker invites players to induldge in the fantasy of be a god-like being shaping a world of their very own and discovering the music of their creation.
+    
 
 ---
 
@@ -29,13 +28,20 @@
 
 ### ✍️ Reflection
 
-<!-- 200–300 words on your process and outcome. Write freely — this is your story to tell.
-     Some prompts to get you started:
-     — What did you set out to create, and how did the final result compare to your original vision?
-     — How is your project structured — what inputs does it respond to and how did you approach the code?
-     — What were your key visual and/or sonic design decisions, and why?
-     — What was your biggest challenge, and how did you work through it?
-     — What would you change, add, or explore further given more time? -->
+
+ Jacee and I are both fans of Outer Wilds, the mix of heartwarming music while adventuring outer space was something we wanted to evoke and explore through this project. With Soon Yu on the team, she brought a musical experties which help bring the sounds of the planet to life.
+
+ We settled on the idea of planets and interactive music, controling features of the planet with sliders, with a minimalistic kurzgesagt (the youtube channel) aesthetic. We settled on a 3 instrumentation, a drum, a  bass guitar and a synth, mixing the heartbeat of the planet with a rugged string instrument evoking the earth and seas, the space age synth to represent the stars. Together they create a symphony.
+
+ Soon Yu handled the music part while Jacee handled the title screen, font choice, and masking of the visual elements.
+
+ I am very pleased with the results!
+ 
+ The biggest techincal feat was getting the light system to work. Unfortunately I have to admit that part was coded with AI. I really tried to get it to work with the knowledge I had, but the techinal part to achieve what I wanted and was implimented is beyond my current expertise, but I learned quite a bit about sin, cos and pi in the process. On an artistic standpoint I'd say it was worth it HAHA.
+
+ The biggest challenge I overcame by myself was getting the cloud system to work. Its a for loop applied to another for loop of a class. I quite disliked the classes, but after revisiting the concept and writing in abstract step by step understood what happened and was able to understand. Also, map() is such a wonderful piece of code. So much of the features are possible and easy to read because of it.
+
+ If I had more time, I would like to create organic shapes and cluster them into classes to create land masses, moving at a much slower speed than the clouds, creating a fuller sense of geography and uniqueness, but that would require a day or two more of development time. Also would love to have more insturments. Currently I feel the musicality leans too much too synthetic.
 
 ---
 

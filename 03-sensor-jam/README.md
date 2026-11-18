@@ -1,29 +1,23 @@
-# Sensor Jam — Title
-
-<!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
+# Sensor Jam — Ultrasonic PufferFish
 
 ---
 
 ### The Project
 
-<!-- What does your sketch do, and what physical input drives it?
-     How does the sensor data translate into something on screen?
-     A few sentences is all you need. -->
+We used an ultrasonic sensor to measure the distance between the hand and the sensor. When you move your hand up close, it grows, when you move it wata it shrinks.
+We wanted to create a pufferfish that changed colour as it inflates and deflates.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
 
-<!-- Drop a screenshot or GIF of your sketch in action.
-     Got a photo of your physical setup too? Throw it in.
-     Save everything to a readme-assets/ folder inside this project folder. -->
-
-[Watch Online](https://your-link-here)
-
-<!-- Replace the link above with a URL to a video of your project in action.
-     ⚠️ Make sure the file or page is set to public before submitting. -->
+![items used](readme-assets/image-01.jpeg)
+![code](readme-assets/image-02.jpeg)
+![Final set up](readme-assets/image-03.jpeg)
+![Work In Progress](readme-assets/video-01.mp4)
+![Final,slow test](readme-assets/video-02.mov)
+![Final,quick test](readme-assets/video-03.mov)
 
 ---
 

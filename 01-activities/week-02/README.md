@@ -4,9 +4,9 @@
 
 ### Activities
 
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `2a`     | <    3 Mode Switch.  > |
+| Activity | What I Made                        |
+| -------- | -----------------------------------|
+| `2a`     | <    3 Mode Switch.              > |
 | `2b`     | < Pattern Making, dancing shapes > |
 
 <!-- Add or remove rows to match the activities for this week. -->
@@ -31,16 +31,16 @@ For activitity 2b I wanted to have control over the shapes with the buttons and 
 ### Output
 
 ![screenshot](readme-assets/output.png)
-![screenshot](activity2a/activity2a-image01.png)
-![screenshot](activity2a/activity2a-image02.png)
-![screenshot](activity2a/activity2a-image03.png)
-![screenshot](activity2a/activity2a-video01.mov)
-![video](activity2a/activity2a-video01.mov)
-![screenshot](activity2b/activity2b-image01.png)
-![screenshot](activity2b/activity2b-image02.png)
-![screenshot](activity2b/activity2b-image03.png)
-![screenshot](activity2b/activity2b-image04.png)
-![video](activity2b/activity2b-video01.mov)
+![screenshot](readme-assets/activity2a-image01.png)
+![screenshot](readme-assets/activity2a-image02.png)
+![screenshot](readme-assets/activity2a-image03.png)
+![screenshot](readme-assets/activity2a-video01.mov)
+![video](readme-assets/activity2a-video01.mov)
+![screenshot](readme-assets/activity2b-image01.png)
+![screenshot](readme-assets/activity2b-image02.png)
+![screenshot](readme-assets/activity2b-image03.png)
+![screenshot](readme-assets/activity2b-image04.png)
+![video](readme-assets/activity2b-video01.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

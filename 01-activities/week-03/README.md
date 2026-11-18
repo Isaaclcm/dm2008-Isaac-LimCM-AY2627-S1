@@ -1,4 +1,4 @@
-# Week 03 — Organizing code
+# Week 03 — Arrays, Function and Transformation
 
 ---
 
@@ -16,11 +16,11 @@
 ### This Week
 
 The array can be very useful I think. I like that you can randomize it.
-I think I dont yet fully grasp function, i guess when constructing a complex indepdendent object.
+I think I dont yet fully grasp function, i guess when  I continue constructing a complex indepdendent object will help.
 
 The rotation I think will be very handy, but its quite awkward trying to think how computers think. I can also see how useful push and pop can be, but I will have to experiment with it to understand it properly.
 
-For activity 3b, I made a field of cactus, which I am quite proud of. I figured out the distance via x and Y changes between squares when rotation is a applied
+For activity 3b, I made a field of cactus, which I am quite proud of. I figured out the distance via x and Y changes between squares when rotation is a applied.
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
@@ -28,10 +28,10 @@ For activity 3b, I made a field of cactus, which I am quite proud of. I figured 
 
 ### Output
 
-![video](activity3a/activity3a-video01.mov)
-![screenshot](activity3b/activity3b-image01.png)
-![screenshot](activity3b/activity3b-image02.png)
-![screenshot](activity3b/activity3b-image03.png)
+![video](readme-assets/activity3a-video01.mov)
+![screenshot](readme-assets/activity3b-image01.png)
+![screenshot](readme-assets/activity3b-image02.png)
+![screenshot](readme-assets/activity3b-image03.png)
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
