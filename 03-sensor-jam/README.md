@@ -12,12 +12,12 @@ We wanted to create a pufferfish that changed colour as it inflates and deflates
 ### Output
 
 
-![items used](readme-assets/image-01.jpeg)
-![code](readme-assets/image-02.jpeg)
-![Final set up](readme-assets/image-03.jpeg)
-![Work In Progress](readme-assets/video-01.mp4)
-![Final,slow test](readme-assets/video-02.mov)
-![Final,quick test](readme-assets/video-03.mov)
+[items used](readme-assets/image-01.jpeg)
+[code](readme-assets/image-02.jpeg)
+[Final set up](readme-assets/image-03.jpeg)
+[Work In Progress](readme-assets/video-01.gif)
+[Final,slow test](readme-assets/video-02.gif)
+[Final,quick test](readme-assets/video-03.gif)
 
 ---
 

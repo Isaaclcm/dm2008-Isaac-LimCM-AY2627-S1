@@ -24,10 +24,10 @@ We added in a start and home screen and an equivilant of a award/ point ranking 
 
 ### WorkInProgress
 ![Concept Art](documentation/ConceptArt.jpg)
-![Collision Testing](documentation/PrototypeVideo-01.mov)
-![Collision Functionality](documentation/PrototypeVideo-02.mov)
-![Functional Prototype](documentation/PrototypeVideo-03.mov)
-![Asset Application](documentation/PrototypeVideo-04.mov)
+![Collision Testing](documentation/PrototypeVideo-01.gif)
+![Collision Functionality](documentation/PrototypeVideo-02.gif)
+![Functional Prototype](documentation/PrototypeVideo-03.gif)
+![Asset Application](documentation/PrototypeVideo-04.gif)
 
 ---
 
