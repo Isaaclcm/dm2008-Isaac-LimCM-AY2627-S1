@@ -12,14 +12,17 @@ Planet Maker is an interactive game where you create your very own planet and cu
 ---
 
 ### Output
-
-![screenshot](readme-assets/screenshot-01.png)
-
+Title screen
+![screenshot](readme-assets/image-03.png)
+Main menu
+![screenshot](readme-assets/image-04.png)
+Saved image
+![screenshot](readme-assets/image-05.png)
 <!-- Drop a screenshot or GIF of your project.
      Got more to show? Add more images — let the work speak for itself.
      Save everything to a readme-assets/ folder inside this project folder. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://youtu.be/4hgHZjjsU2Y)
 
 <!-- Replace the link above with a URL to a screen recording or video of your final project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
