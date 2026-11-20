@@ -35,8 +35,8 @@ For assigment 2 I chose to build on Ryoji Ikeda. I made a box and have it track 
 ![screenshot](readme-assets/activity1b-image03.png)
 ![screenshot](readme-assets/activity1b-image03.png)
 ![screenshot](readme-assets/activity1b-image04.jpg)
-![screenshot](readme-assets/activity1b-video01.mov)
-![screenshot](readme-assets/activity1b-video02.mov)
+![screenshot](readme-assets/activity1b-video01.gif)
+![screenshot](readme-assets/activity1b-video02.gif)
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
