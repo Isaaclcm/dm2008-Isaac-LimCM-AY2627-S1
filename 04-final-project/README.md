@@ -24,6 +24,31 @@ Planet Maker is an interactive game where you create your very own planet and cu
 <!-- Replace the link above with a URL to a screen recording or video of your final project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
 
+
+---
+
+### Work In Progress
+
+Star Class
+![screenshot](readme-assets/video-01.gif)
+Cloud Class
+![screenshot](readme-assets/video-02.gif)
+Multi-cloud generation
+![screenshot](readme-assets/video-03.gif)
+Scale Slider
+![screenshot](readme-assets/video-04.gif)
+Multiple Sliders
+![screenshot](readme-assets/video-05.gif)
+Funny Error caused by Alpha
+![screenshot](readme-assets/image-01.png)
+Sunlight feature & cloud implimentation
+![screenshot](readme-assets/video-06.gif)
+Funny Error when implimenting wave
+![screenshot](readme-assets/image-02.png)
+Full integration
+![screenshot](readme-assets/video-07.gif)
+
+
 ---
 
 ### ✍️ Reflection
@@ -33,7 +58,10 @@ Planet Maker is an interactive game where you create your very own planet and cu
 
  We settled on the idea of planets and interactive music, controling features of the planet with sliders, with a minimalistic kurzgesagt (the youtube channel) aesthetic. We settled on a 3 instrumentation, a drum, a  bass guitar and a synth, mixing the heartbeat of the planet with a rugged string instrument evoking the earth and seas, the space age synth to represent the stars. Together they create a symphony.
 
- Soon Yu handled the music part while Jacee handled the title screen, font choice, and masking of the visual elements.
+ Soon Yu handled the music part and the values while 
+ Jacee handled the title screen, font choice, and masking of the visual elements.
+
+I handled the star class, the atmosphere, cloud class and general implimentation.
 
  I am very pleased with the results!
  
@@ -41,9 +69,17 @@ Planet Maker is an interactive game where you create your very own planet and cu
 
  The biggest challenge I overcame by myself was getting the cloud system to work. Its a for loop applied to another for loop of a class. I quite disliked the classes, but after revisiting the concept and writing in abstract step by step understood what happened and was able to understand. Also, map() is such a wonderful piece of code. So much of the features are possible and easy to read because of it.
 
- If I had more time, I would like to create organic shapes and cluster them into classes to create land masses, moving at a much slower speed than the clouds, creating a fuller sense of geography and uniqueness, but that would require a day or two more of development time. Also would love to have more insturments. Currently I feel the musicality leans too much too synthetic.
+ After feedback the team spent a few more hours working on the project. I wanted to improve the sonic experience as I feel it was off balance
+ I implimented a handful of sound effects like the sun, binding the volume to the cycle of the backdrop. 
+ (There is a subtle fade between black and dark blue) 
+ For the acidity slider, I blended between the waveforms from sine to square to triangle instead of just if statement swapping.
+ For the clouds/atomsphere slider, I added in a violin/strong effect which I think made it feel more unique.
+ By then end I think each of the sliders adds in something unique.
 
----
+ During then, Jacee worked on the UI while SoonYu polished the overall code.
+
+ If I had more time, I would like to create organic shapes and cluster them into classes to create land masses, moving at a much slower speed than the clouds, creating a fuller sense of geography and uniqueness, but that would require a day or two more of development time. 
+
 
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — want to document more? Try any of these:

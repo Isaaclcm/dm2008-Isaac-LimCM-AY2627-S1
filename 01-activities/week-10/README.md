@@ -29,8 +29,11 @@ This was quite eye-opening for me, leaning that DOM elements are completely sepe
 ![screenshot](readme-assets/image-02.png)
 ![screenshot](readme-assets/image-03.png)
 ![screenshot](readme-assets/image-04.png)
-![Video, WIP](readme-assets/video-01.MOV)
-![Video,Final](readme-assets/video-02.MOV)
+WIP
+![Video, WIP](readme-assets/video-01.gif)
+
+FINAL
+![Video,Final](readme-assets/video-02.gif)
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

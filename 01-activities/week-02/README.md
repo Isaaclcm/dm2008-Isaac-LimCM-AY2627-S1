@@ -30,17 +30,16 @@ For activitity 2b I wanted to have control over the shapes with the buttons and 
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+
 ![screenshot](readme-assets/activity2a-image01.png)
 ![screenshot](readme-assets/activity2a-image02.png)
 ![screenshot](readme-assets/activity2a-image03.png)
-![screenshot](readme-assets/activity2a-video01.mov)
-![video](readme-assets/activity2a-video01.mov)
+![video](readme-assets/activity2a-video01.gif)
 ![screenshot](readme-assets/activity2b-image01.png)
 ![screenshot](readme-assets/activity2b-image02.png)
 ![screenshot](readme-assets/activity2b-image03.png)
 ![screenshot](readme-assets/activity2b-image04.png)
-![video](readme-assets/activity2b-video01.mov)
+![video](readme-assets/activity2b-video01.gif)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

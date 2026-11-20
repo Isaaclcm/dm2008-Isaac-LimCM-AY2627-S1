@@ -31,10 +31,11 @@ I think the lessions were very effective in my understanding of the arduino. The
 ![screenshot](readme-assets/activity-8a-image02.jpeg)
 ![screenshot](readme-assets/activity-8a-image03.jpeg)
 ![screenshot](readme-assets/activity-8a-image04.jpeg)
-![screenshot](readme-assets/activity-8a-video01.mp4)
+![screenshot](readme-assets/activity-8a-video01.gif)
 ![screenshot](readme-assets/activity-8b-image01.jpeg)
 ![screenshot](readme-assets/activity-8b-image02.jpeg)
 ![screenshot](readme-assets/activity-8b-image03.jpeg)
+![screenshot](readme-assets/activity-8b-video01.gif)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

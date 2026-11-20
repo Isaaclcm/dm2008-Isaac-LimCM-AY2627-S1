@@ -4,7 +4,7 @@
 
 ### Activities
 
-| Activity | What I Made                   |
+| Activity | What I Made           |
 | -------- | --------------------- |
 | `4a`     |   < Cookie Clicker >  |
 | `4b`     |   < Bubble Blower  >  |
@@ -31,8 +31,8 @@ For activity 4b, I made a group of bubbles that bounces off the sides of the scr
 ### Output
 
 
-![video](readme-assets/activity4a-video01.mov)
-![video](readme-assets/activity4b-video01.mov)
+![video](readme-assets/activity4a-video01.gif)
+![video](readme-assets/activity4b-video01.gif)
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

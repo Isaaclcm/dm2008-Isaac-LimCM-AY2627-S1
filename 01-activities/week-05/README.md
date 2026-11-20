@@ -32,7 +32,7 @@ I'll be working with Jacee on the game project.
 
 ### Output
 
-![screenshot](readme-assets/activity5a-video01.mov)
+![screenshot](readme-assets/activity5a-video01.gif)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

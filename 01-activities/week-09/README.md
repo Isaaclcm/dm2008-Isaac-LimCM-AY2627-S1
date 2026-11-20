@@ -30,7 +30,8 @@ Map() and Constrain() and datasheets seem very useful for general application.
 ![screenshot](readme-assets/activity-9a-image02.jpeg)
 ![screenshot](readme-assets/activity-9a-image03.jpeg)
 ![screenshot](readme-assets/activity-9a-image04.jpeg)
-![Video](readme-assets/activity-9a-video01.MOV)
+
+![Video](readme-assets/activity-9a-video01.gif)
 
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

@@ -28,7 +28,7 @@ For activity 3b, I made a field of cactus, which I am quite proud of. I figured 
 
 ### Output
 
-![video](readme-assets/activity3a-video01.mov)
+![video](readme-assets/activity3a-video01.gif)
 ![screenshot](readme-assets/activity3b-image01.png)
 ![screenshot](readme-assets/activity3b-image02.png)
 ![screenshot](readme-assets/activity3b-image03.png)
